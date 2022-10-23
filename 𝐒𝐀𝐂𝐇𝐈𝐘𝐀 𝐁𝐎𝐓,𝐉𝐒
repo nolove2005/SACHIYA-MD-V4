@@ -134,7 +134,7 @@ const zimbotincv3 = body.slice(0).trim().split(/ +/).shift().toLowerCase()
 
 //rest apis
 global.APIs = { 
-    bx: 'https://bx-hunter.herokuapp.com',
+    bx: 'https://bx-hunter.herokuapp.com'.
     dhnjing: 'https://dhnjing.xyz',
     hardianto: 'https://hardianto-chan.herokuapp.com',
     jonaz: 'https://jonaz-api-v2.herokuapp.com',
